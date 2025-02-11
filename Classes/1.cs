@@ -43,3 +43,13 @@ namespace Course
         }
     }
 }
+
+namespace Espaço
+{
+    class Pessoa
+    {
+        public string Nome;
+        public int Idade;
+
+    }
+}
