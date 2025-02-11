@@ -17,12 +17,12 @@ namespace Course
             P1.Nome = Console.ReadLine();
             Console.Write("Idade :");
             P1.Idade = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("Dados da segunda pessoa");
-            Console.WriteLine("Nome :");
-            P2.Nome = Console.ReadLine();
-            Console.WriteLine("Idade :");
-            P2.Idade = int.Parse(Console.ReadLine());
+            
+            Console.WriteLine("Dados da primeira pessoa");
+            Console.Write("Nome :");
+            P1.Nome = Console.ReadLine();
+            Console.Write("Idade :");
+            P1.Idade = int.Parse(Console.ReadLine());
 
             if(P1.Idade > P2.Idade)
             {
