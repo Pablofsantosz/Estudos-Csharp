@@ -8,7 +8,7 @@ namespace Course
     {
         static void Main(string[] args)
         {
-            //oi mundo
+            
             Pessoa P1, P2;
             P1 = new Pessoa();
             P2 = new Pessoa();
