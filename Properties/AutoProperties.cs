@@ -69,16 +69,7 @@ namespace Course
             }
         }
 
-      
-
-
-
-
-
-
-
-
-
+       
         public double Valor_Total_Estoque()
         {
             double total = (Quantidade * Preco);
