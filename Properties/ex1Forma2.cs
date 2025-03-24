@@ -99,10 +99,14 @@ namespace namespaceBanco
 
 
         }
-        public Banco(string nome,double numero_conta,double valor_conta):this(nome,numero_conta)
+        public Banco(string nome,double numero_conta,double deposito_inicial):this(nome,numero_conta)
         {
            
-            Saldo = valor_conta;
+           
+           
+            Deposito(deposito_inicial);
+        /* melhor forma por que se mudar a função de deposito aqui tbm muda ,
+        se fosse ao contrario teria que mudar a logica do contrutor */
         }
 
 
