@@ -39,7 +39,7 @@ namespace Course
         //Set (definir/muda) quando voce quer mudar  o valor da variavel .
 
 
-
+        //
         private string _nome;
         private double _preco;
         private int _quantidade;
