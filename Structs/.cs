@@ -8,7 +8,7 @@ namespace Course{
         {
             /*Diferente das classes as structs sao tipo valor ,onde elas podem ser iniciadas
             dessa forma(sem o new ,que é como criamos a heap da classe para inserir os valores)
-            , mas o tipo struct tbm aceita o tipo new  é possivel iniciar a varievel P entao
+            , mas o tipo struct tbm aceita o tipo new  é possivel iniciar a variavel P entao
             tem duas formas de ser iniciado.
              */
 
