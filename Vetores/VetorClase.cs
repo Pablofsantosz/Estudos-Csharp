@@ -34,7 +34,7 @@ namespace Course
 
 
             double media = soma / n;
-            Console.WriteLine("AVERAGE PRICE ="+ media.ToString("F2",CultureInfo.InvariantCulture);
+            Console.WriteLine("AVERAGE PRICE ="+ media.ToString("F2",CultureInfo.InvariantCulture));
 
 
 
